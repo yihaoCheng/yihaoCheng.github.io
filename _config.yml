@@ -1,8 +1,9 @@
 name: "Chengyihao"
 description: "程一浩"
 
-avatar: 
-favicon:
+avatar: https://pianfan.github.io/images/avatar.png
+favicon: https://pianfan.github.io/images/favicon.ico
+
 navigation:
   - name: 首页
     url: /
