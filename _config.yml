@@ -1,9 +1,8 @@
 name: "yihaoCheng's blog"
 description: "一浩"
 
-avatar: https://pianfan.github.io/images/avatar.png
-favicon: https://pianfan.github.io/images/favicon.ico
-
+avatar: 
+favicon:
 navigation:
   - name: 首页
     url: /
